@@ -37,11 +37,7 @@
                 href:'/contact',
                 isShow: true,
             },
-            {
-                title: 'temp',
-                href:'/temp',
-                isShow: false,
-            }
+           
         ];
     </script>
 
