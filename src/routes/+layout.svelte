@@ -16,7 +16,7 @@
     </div>
 
     <script>
-        const nav = [
+        const link = [
             {
                 title: 'Обо мне',
                 href:'/about',
