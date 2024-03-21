@@ -2,11 +2,11 @@
     <div class="nav-container">
     <a href="/" class="nav-logo" title="Back to Homepage">Лера Пименова </a>
      <div class="nav-links">
-        {#if link.isShow}
+        {#each nav as link}
 
-<a href={link.href} class="link">{link.title}</a>
-
-{/if}
+        <a href={link.href} class="link">{link.title}</a>
+        
+        {/each}
     </div>
     </div>
     </nav>
@@ -16,7 +16,7 @@
     </div>
 
     <script>
-        const link = [
+        const nav = [
             {
                 title: 'Обо мне',
                 href:'/about',
