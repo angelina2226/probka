@@ -1,6 +1,6 @@
 <nav>
     <div class="nav-container">
-    <a href="/" class="nav-logo" title="Back to Homepage">Лера Пименова </a>
+    <a href="/" class="nav-logo" title="Back to Homepage">Ангелина Якушевская </a>
      <div class="nav-links">
         {#each nav as link}
 

@@ -2,7 +2,7 @@
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
 
 <svelte:head> 
-<title>Лера Пименова </title> 
+<title>Ангелина Якушевская </title> 
 </svelte:head> 
 <div class='container'> 
 <div class='info'> 
